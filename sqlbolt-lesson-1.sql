@@ -1,2 +1,2 @@
--- Lesson 1, Exercise 1: find the title of each film
-SELECT title FROM movies;
+-- Lesson 1, Exercise 2: Find the director of each film
+SELECT director FROM movies;
